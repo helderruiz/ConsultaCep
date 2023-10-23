@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+}
+
+.formulario {
+    padding: 50px;
+    width: 100%;
+    margin-left: 10%;
+}
+
+#texto {
+    padding: 20px;
+    color:rgb(0, 0, 112)
+}
